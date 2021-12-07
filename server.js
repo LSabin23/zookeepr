@@ -1,6 +1,6 @@
 const { animals } = require('./data/animals')
 const express = require('express')
-const PORT = process.env.PORT || 80
+const PORT = process.env.PORT || 3001
 const app = express()
 
 // takes in req.query as an argument, filters through the animals accordingly, then returns the new filtered array
