@@ -108,6 +108,24 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Timon",
+      "species": "meerkat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Pumbaa",
+      "species": "warthog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
     }
   ]
 }
